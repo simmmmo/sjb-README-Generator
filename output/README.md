@@ -18,7 +18,9 @@
   npm install
 
   ## Usage
-  * Clone the repository from Github, * Ensure Node.js is installed * Install the Inquirer package.
+  * Clone the repository from Github 
+  * Ensure Node.js is installed 
+  * Install the Inquirer package.
   
   ## Contributing
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed placerat dolor. Phasellus ultrices lacus ut velit tristique, a hendrerit libero blandit. 
