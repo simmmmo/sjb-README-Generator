@@ -1,4 +1,4 @@
-# README File Generator
+# README file Generator
   
   ![badge](https://img.shields.io/badge/license-MIT-blue)
     
@@ -18,16 +18,13 @@
   npm install
 
   ## Usage
-  * Clone the repository from Github 
-  * Ensure Node.js is installed 
-  * Install the Inquirer package.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed placerat dolor. Phasellus ultrices lacus ut velit tristique, a hendrerit libero blandit. 
   
   ## Contributing
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed placerat dolor. Phasellus ultrices lacus ut velit tristique, a hendrerit libero blandit. 
 
   ## Tests
   npm test
-
   
   ## License
   The poject is covered under the following license:
@@ -36,8 +33,7 @@
 
   For more information on MIT, please go to 
   [MIT](https://choosealicense.com/licenses/mit)
-    
-    
+      
 
   ## Questions
   If you have any questions regarding this projects, please contact me:

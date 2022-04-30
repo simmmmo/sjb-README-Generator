@@ -41,11 +41,16 @@ Example of command line inputs
 
 
 ## Output 
-Example of generated README file. Generated README file is saved to ./output folder
+Generated README file is saved to ./output folder
+Example of generated README file. 
 
 ![exampleREADME](./screenshots/simmmmo_sjb-README-Generator.gif)
 
+
 ## Project Links
+* Walkthrough video link
+
+https://drive.google.com/file/d/145zBh3gOmuCT38eHxAT7V13BXiheNMpz/view
 
 * Repo name
 
