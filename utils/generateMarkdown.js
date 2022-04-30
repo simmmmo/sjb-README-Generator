@@ -12,10 +12,10 @@ function renderLicenseBadge(license) {
 // Function that returns the license link, license selection is convertent to lower to allow URL to function
 function renderLicenseLink(license) {
   let lowerLicense = license.toLowerCase();
-  console.log(lowerLicense);
+  // console.log(lowerLicense);
   if (lowerLicense !== 'None') {
   return `
-  [${lowerLicense}](https://choosealicense.com/licenses/${lowerLicense})
+  [${license}](https://choosealicense.com/licenses/${lowerLicense})
     `;
   } else {
     return ' ';
@@ -27,9 +27,11 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'None') {
   return `
-  ## [License]
+  ## License
   The poject is covered under the following license:
-  ${renderLicenseBadge(data.license)}
+
+  ![badge](https://img.shields.io/badge/license-${license}-blue)
+
   For more information on ${license}, please go to ${renderLicenseLink(license)}
     `;
   } else {
@@ -71,6 +73,7 @@ function generateMarkdown(data) {
   If you have any questions regarding this projects, please contact me:
 
   [GitHub: ${data.gitUser}](https://github.com/${data.gitUser})
+
   [Email: ${data.email}](mailto:${data.email})
 
 `;
