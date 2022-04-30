@@ -43,7 +43,7 @@ Example of command line inputs
 ## Output 
 Example of generated README file. Generated README file is saved to ./output folder
 
-![exampleREADME]()
+![exampleREADME](./screenshots/simmmmo_sjb-README-Generator.gif)
 
 ## Project Links
 
